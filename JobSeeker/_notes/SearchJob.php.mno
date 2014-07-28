@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:MinQualification;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:JobId;datatype:int,name:CompanyName;datatype:string,name:JobTitle;datatype:string,name:Vacancy;datatype:int,name:MinQualification;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:JobId;datatype:int,name:CompanyName;datatype:string,name:JobTitle;datatype:string,name:Status;datatype:string,name:JobSeekId;datatype:int,name:Description;datatype:string" />
+	<infoitem key="UD_Recordset4" value="name:CompanyName;datatype:string" />
+	<infoitem key="UD_Recordset5" value="name:JobTitle;datatype:string" />
+</info>

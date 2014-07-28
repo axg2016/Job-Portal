@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:JobId;datatype:int,name:JobTitle;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:ApplicationId;datatype:int,name:Status;datatype:string,name:JobSeekerName;datatype:string,name:City;datatype:string,name:Email;datatype:string,name:JobId;datatype:int" />
+</info>
